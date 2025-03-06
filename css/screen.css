@@ -1,3 +1,6 @@
 body {
 	background-image: url("../image/turkey_background.png");
+	background-repeat: no-repeat; /* this I had google as my background repeated*/
+	background-size: cover;
+	
 }
