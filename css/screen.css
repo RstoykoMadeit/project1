@@ -5,4 +5,5 @@ body {
 	background-repeat: no-repeat; /* this I had google as my background repeated*/	
 	background-position: center;
 	background-attachment: fixed;
+	width: 75vw;
 }
