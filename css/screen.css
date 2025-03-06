@@ -1,7 +1,7 @@
 body {
 	background-image: url("../image/turkey_background.png");
-	background-size: cover;
+	background-size: contain;
 	background-repeat: no-repeat; /* this I had google as my background repeated*/	
-	background-position: center center;
+	background-position: center;
 	background-attachment: fixed;
 }
