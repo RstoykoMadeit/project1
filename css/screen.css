@@ -18,7 +18,8 @@ body {
 	background: #ED7117;
 	border-radius: 25px;
 	padding: 20px;
-	width:80%;
+	width: 80vw;
+	height: 50vh;
 }
 
 #heading {
