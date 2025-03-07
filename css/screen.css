@@ -1,10 +1,6 @@
 body {
 	background-color: #FDA172;
 	background-image: url("../image/turkey_background_2.png");
-	background-size: contain;
-	background-repeat: no-repeat; /* this I had google as my background repeated*/	
-	background-position: center;
-	background-attachment: fixed;
 	font-family: "Inconsolata", monospace;
 	display: flex;
 	justify-content: center;
