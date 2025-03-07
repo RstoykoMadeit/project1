@@ -46,3 +46,9 @@ p {
 	text-align: center;
 	margin: 20px;
 }
+
+form {
+	display: flex;
+	flex-direction: columnn;
+	gap: 15px;
+}
