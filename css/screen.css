@@ -48,6 +48,10 @@ p {
 	margin: 20px;
 }
 
+#split {
+	background-color: #FDA172;
+}
+
 li {
 	margin-bottom: 10px;
 	font-size: 1.1em
