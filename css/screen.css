@@ -39,5 +39,11 @@ p {
 	background-color: #FDA172;
 	border-radius: 20px;
 	margin: 10px;
-	padding-bottom: 10px 20px;
+	padding: 10px 20px;
+}
+
+#form-heading {
+	font-size: 2em;
+	text-align: center;
+	margin: 20px;
 }
