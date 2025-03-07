@@ -47,8 +47,7 @@ p {
 	margin: 20px;
 }
 
-ol {
-	display: flex;
-	flex-direction: columnn;
-	gap: 15px;
+li {
+	margin-bottom: 10px;
+	font-size: 1.1em
 }
