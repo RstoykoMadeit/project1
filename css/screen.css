@@ -5,5 +5,11 @@ body {
 	background-repeat: no-repeat; /* this I had google as my background repeated*/	
 	background-position: center;
 	background-attachment: fixed;
-	width: 100vw;
+	font-family: "Inconsolata", monospace, Arial;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+	height: 100vh;
+	
 }
