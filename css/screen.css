@@ -56,7 +56,6 @@ p {
 	max-width: 500px;
 	width: 40vw;
 	display: flex;
-	justify-content: center;
 	align-items: center;
 	
 }
@@ -88,6 +87,12 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
 #input-new-letter {
 	display: flex;
 	align-items: center;
+}
+
+#input-sign-up {
+	display: flex;
+	justify-content: center;
+	margin-top: 15px;
 }
 
 #input-sign-up input {
