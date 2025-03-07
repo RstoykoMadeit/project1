@@ -55,6 +55,9 @@ p {
 	border-radius: 20px;
 	max-width: 500px;
 	width: 40vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	
 }
 
