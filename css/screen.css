@@ -47,7 +47,7 @@ p {
 	margin: 20px;
 }
 
-form {
+ol {
 	display: flex;
 	flex-direction: columnn;
 	gap: 15px;
