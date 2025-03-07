@@ -57,6 +57,8 @@ p {
 	width: 40vw;
 	display: flex;
 	align-items: center;
+	flex-direction:column;
+	padding: 20px;
 	
 }
 
