@@ -20,6 +20,11 @@ body {
 	padding: 20px;
 	width: 80vw;
 	height: 50vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
 }
 
 #heading {
