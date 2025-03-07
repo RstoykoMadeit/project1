@@ -71,3 +71,13 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
 	padding: 10px;
 	font-size: 1em;
 }
+
+#input-species {
+	display: flex;
+	align-items: center;
+}
+
+#input-new-letter {
+	display: flex;
+	align-items: center;
+}
