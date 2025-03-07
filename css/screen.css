@@ -5,7 +5,7 @@ body {
 	background-repeat: no-repeat; /* this I had google as my background repeated*/	
 	background-position: center;
 	background-attachment: fixed;
-	font-family: "Inconsolata", monospace, Arial;
+	font-family: "Inconsolata", monospace;
 	display: flex;
 	justify-content: center;
 	align-items: center;
