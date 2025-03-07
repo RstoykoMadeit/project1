@@ -20,21 +20,19 @@ body {
 	padding: 20px;
 	width: 80vw;
 	height: 50vh;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
 }
 
 #heading {
 	font-size: 2.5em;
+	text-align: center;
+	top: 20px;
 	margin: 0;
 }
 
 h2 {
 	font-size: 2em;
-	margin: 20px 0;
+	text-align: center;
+	margin: 20px;
 }
 
 p {
@@ -47,5 +45,6 @@ p {
 
 #form-heading {
 	font-size: 2em;
-	margin: 20px 0px;
+	text-align: center;
+	margin: 20px;
 }
