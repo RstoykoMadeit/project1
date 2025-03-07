@@ -18,7 +18,7 @@ body {
 	background: #ED7117;
 	border-radius: 10px;
 	padding: 20px;
-	width: 40vw;
+	width: 60vw;
 	max-width: 500px;
 	margin-top: auto;
 }
@@ -53,6 +53,9 @@ p {
 #split {
 	background-color: #FDA172;
 	border-radius: 20px;
+	max-width: 500px;
+	width: 40vw;
+	
 }
 
 li {
