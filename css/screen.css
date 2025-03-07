@@ -34,3 +34,10 @@ h2 {
 	text-align: center;
 	margin: 20px;
 }
+
+p {
+	background-color: #FC6A03;
+	border-radius: 20px;
+	margin: 10px;
+	padding-bottom: 10px 20px;
+}
