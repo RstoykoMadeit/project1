@@ -103,8 +103,14 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
 }
 
 
-@media (max-width: 600px) {
+@media only screen and (min-width: 600px) {
 	#content {
 		width: 80vw;
+	}
+}
+
+@media only screen and (min-width:1000px) {
+	#content {
+		width: 70vw;
 	}
 }
