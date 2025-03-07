@@ -17,3 +17,10 @@ body {
 #content {
 	background: #ED7117
 }
+
+h1 {
+	font-size: 5em;
+	text-align: center;
+	position: absolute;
+	top: 20px;
+}
