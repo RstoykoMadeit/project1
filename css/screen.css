@@ -7,6 +7,7 @@ body {
 	background-attachment: fixed;
 	font-family: "Inconsolata", monospace;
 	display: flex;
+	justify-content: center;
 	align-items: center;
 	margin: 0;
 	padding: 0;
@@ -80,4 +81,9 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
 #input-new-letter {
 	display: flex;
 	align-items: center;
+}
+
+#input-sign-up input {
+	border: none;
+	padding: 10px;
 }
