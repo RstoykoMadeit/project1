@@ -1,115 +1,115 @@
 body {
-	background-image: url("../image/turkey_background_2.png");
-	font-family: "Inconsolata", monospace;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin: 0;
-	padding: 0;
+  background-image: url("../image/turkey_background_2.png");
+  font-family: "Inconsolata", monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
 	
 }
 
 #content {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-direction: column;
-	background: #ED7117;
-	border-radius: 10px;
-	padding: 20px;
-	width: 80%;
-	max-width: 500px;
-	margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #ED7117;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  max-width: 500px;
+  margin-top: 20px;
 }
 
 #heading {
-	font-size: 2.5em;
-	text-align: center;
-	margin-top: 5px;
-	margin-bottom: 10px;
+  font-size: 2.5em;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 h2 {
-	font-size: 2em;
-	text-align: center;
-	margin: 20px;
+  font-size: 2em;
+  text-align: center;
+  margin: 20px;
 }
 
 p {
-	font-size: 1em;
-	background-color: #FDA172;
-	border-radius: 20px;
-	margin: 10px;
-	padding: 10px 20px;
+  font-size: 1em;
+  background-color: #FDA172;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 10px 20px;
 }
 
 #form-heading {
-	font-size: 2em;
-	text-align: center;
-	margin: 5px;
+  font-size: 2em;
+  text-align: center;
+  margin: 5px;
 }
 
 #split {
-	background-color: #FDA172;
-	border-radius: 20px;
-	max-width: 500px;
-	width: 100%;
-	display: flex;
-	align-items: center;
-	flex-direction:column;
-	margin: auto;
+  background-color: #FDA172;
+  border-radius: 20px;
+  max-width: 500px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction:column;
+  margin: auto;
 }
 
 li {
-	margin-bottom: 10px;
-	font-size: 1.1em
+  margin-bottom: 10px;
+  font-size: 1.1em
 }
 
 label {
-	display: block;
-	text-align: left;
-	padding:  10px 5px;
+  display: block;
+  text-align: left;
+  padding:  10px 5px;
 }
 
 input[type="text"], input[type="email"], input[type="radio"], input[type="date"], input[type="tel"] {
-	width: auto;
-	border-radius: 10px;
-	margin-top: 5px;
-	padding: 10px;
-	font-size: 1em;
+  width: auto;
+  border-radius: 10px;
+  margin-top: 5px;
+  padding: 10px;
+  font-size: 1em;
 }
 
 #input-species {
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 #input-news-letter {
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 #input-sign-up {
-	display: flex;
-	justify-content: center;
-	margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
 }
 
 #input-sign-up input {
-	border: none;
-	padding: 10px;
-	border-radius: 10px;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 
 @media only screen and (min-width: 600px) {
-	#content {
-		width: 80vw;
-	}
+  #content {
+    width: 80vw;
+  }
 }
 
 @media only screen and (min-width:1000px) {
-	#content {
-		width: 70vw;
-	}
+  #content {
+    width: 70vw;
+  }
 }
