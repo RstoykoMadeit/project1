@@ -36,7 +36,6 @@ h2 {
 }
 
 p {
-  font-size: 2rem;
   background-color: #FDA172;
   border-radius: 20px;
   margin: 10px;
@@ -103,10 +102,10 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
 
 
 @media only screen and (min-width:599px) {
-  input[type"text"],
-  input[type"email"],
-  input[type"date"],
-  input[type"tel"] {
+  input[type="text"],
+  input[type="email"],
+  input[type="date"],
+  input[type="tel"] {
     width:90%;
     font-size: 1.1em;
   }
@@ -116,11 +115,11 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
   }
   
   #form-heading {
-    font-size: 1.5;
+    font-size: 1.5em;
   }
   
   p {
-    font-size: 1px;
+    font-size: 14px;
   }
 }
 
