@@ -101,7 +101,7 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
 }
 
 
-@media (min-width:599px) {
+@media only screen and (min-width:599px) {
   input[type="text"],
   input[type="email"],
   input[type="date"],
@@ -127,7 +127,7 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
   }
 }
 
-@media (min-width:1000px) {
+@media only screen and (min-width:1000px) {
   #content {
     width: 70vw;
   }
