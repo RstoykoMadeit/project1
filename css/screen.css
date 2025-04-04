@@ -17,7 +17,7 @@ body {
   background: #ED7117;
   border-radius: 10px;
   padding: 20px;
-  width: 80%;
+  width: 90%;
   max-width: 500px;
   margin-top: 20px;
 }
@@ -106,7 +106,7 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
   input[type="email"],
   input[type="date"],
   input[type="tel"] {
-    width:90%;
+    width:80%;
     font-size: 1.1em;
   }
   
@@ -121,6 +121,10 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
   p {
     font-size: 14px;
   }
+  
+  li {
+    font-size: 1.2em;
+  }
 }
 
 @media (min-width:1000px) {
@@ -133,11 +137,12 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
   }
   
   #form-heading {
-    font-size; 2em;
+    font-size: 2em;
   }
   
   p {
     font-size: 1em;
+    padding: 25px;
   }
   
   input[type="text"],
