@@ -40,6 +40,7 @@ p {
   border-radius: 20px;
   margin: 10px;
   padding: 10px 20px;
+  font-size: 1em;
 }
 
 #form-heading {
@@ -71,11 +72,12 @@ label {
 }
 
 input[type="text"], input[type="email"], input[type="radio"], input[type="date"], input[type="tel"] {
-  width: auto;
+  width: 90%;
   border-radius: 10px;
   margin-top: 5px;
   padding: 10px;
   font-size: 1em;
+  box-sizing: border-box;
 }
 
 #input-species {
@@ -94,7 +96,8 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
   margin-top: 15px;
 }
 
-#input-sign-up input {
+#input-sign-up input[type="submit"] {
+  width: auto;
   border: none;
   padding: 10px;
   border-radius: 10px;
