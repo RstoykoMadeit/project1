@@ -105,6 +105,10 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
 
 
 @media only screen and (min-width:599px) {
+  body {
+    padding: 30px;
+  }
+  
   input[type="text"],
   input[type="email"],
   input[type="date"],
@@ -127,12 +131,19 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
   
   li {
     font-size: 1.2em;
+    padding-bottom: 10px;
   }
 }
 
 @media only screen and (min-width:1000px) {
+  body {
+    padding: 50px;
+  }
+  
   #content {
     width: 70vw;
+    padding:30px;
+    border-radius: 20px;
   }
   
   #heading {
