@@ -7,7 +7,7 @@ window.onload = function() {
     var turkey = document.getElementById('turkey').checked;
     
     if (!human && !turkey) {
-      alert"If not turkey nor human then who are you";
+      alert("If not turkey nor human then who are you");
       e.preventDefault();
     }
     else {
