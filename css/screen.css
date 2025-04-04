@@ -102,7 +102,7 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
 }
 
 
-@media only screen and (min-width: 599px) {
+@media only screen and (min-width:599px) {
   input[type"text"],
   input[type"email"],
   input[type"date"],
@@ -120,7 +120,7 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
   }
   
   p {
-    font-size: 12px;
+    font-size: 1px;
   }
 }
 
