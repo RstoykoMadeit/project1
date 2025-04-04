@@ -169,4 +169,9 @@ input[type="tel"] {
   input[type="tel"]{
     width: 60%;
   }
+  
+  #input-sign-up input[type="submit"]{
+    font-size: 1.1em;
+    padding: 12px 30px;
+  }
 }
