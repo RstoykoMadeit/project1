@@ -127,4 +127,23 @@ input[type="text"], input[type="email"], input[type="radio"], input[type="date"]
   #content {
     width: 70vw;
   }
+  
+  #heading {
+    font-size: 3em;
+  }
+  
+  #form-heading {
+    font-size; 2em;
+  }
+  
+  p {
+    font-size: 1em;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="date"],
+  input[type="tel"]{
+    width: 60%;
+  }
 }
